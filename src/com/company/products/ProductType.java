@@ -1,4 +1,4 @@
-package com.company.animalprogect;
+package com.company.products;
 
 public enum ProductType {
     DOOR,

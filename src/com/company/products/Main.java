@@ -1,7 +1,6 @@
-package com.company.animalprogect;
+package com.company.products;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Main {
 
